@@ -22,6 +22,8 @@ pnpm dev
 
 ## 歌曲源数据 
 
+### 精力旺盛的法子
+
 path：/src/api/config.js
 
 ```js
@@ -36,6 +38,12 @@ export const API_BASE_URL = "http://localhost:3100";
 
 
 然后**API_BASE_URL**放你启动的**服务地址**就行了
+
+
+### 懒人必备的法子
+
+自己本地mock点假数据，搞那么费事干嘛呢~~~
+
 
 ## Prisma
 
